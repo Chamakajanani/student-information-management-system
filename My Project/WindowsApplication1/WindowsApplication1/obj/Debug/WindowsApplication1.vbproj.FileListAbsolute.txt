@@ -1,0 +1,38 @@
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\bin\Debug\Student Database.mdb
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+C:\Users\chama\OneDrive\Desktop\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\chama\OneDrive\Documents\GitHub\student-information-management-system\My Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\chama\OneDrive\Documents\GitHub\student-information-management-system\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\chama\OneDrive\Documents\GitHub\student-information-management-system\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\chama\OneDrive\Documents\GitHub\student-information-management-system\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\chama\OneDrive\Desktop\New folder\My Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\chama\OneDrive\Desktop\New folder\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\chama\OneDrive\Desktop\New folder\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\chama\OneDrive\Desktop\New folder\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\chama\OneDrive\Desktop\New folder\My Project\WindowsApplication1\WindowsApplication1\bin\Debug\Student Database.mdb
+C:\Users\chama\OneDrive\Desktop\New folder\My Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\chama\OneDrive\Desktop\New folder\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\chama\OneDrive\Desktop\New folder\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\chama\OneDrive\Desktop\New folder\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\chama\OneDrive\Desktop\New folder\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\chama\OneDrive\Desktop\New folder\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\chama\OneDrive\Desktop\New folder\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\chama\OneDrive\Desktop\New folder\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\chama\OneDrive\Desktop\New folder\My Project\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\chama\OneDrive\Desktop\New folder\My Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\chama\OneDrive\Desktop\New folder\My Project\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
